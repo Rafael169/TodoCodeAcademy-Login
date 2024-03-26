@@ -7,7 +7,7 @@ import javax.persistence.*;
 @Entity
 public class Usuario implements Serializable {
     @Id
-    @GeneratedValue (strategy = GenerationType.AUTO)
+    @GeneratedValue (strategy = GenerationType.SEQUENCE)
     private int idUser;
     private String nombreUsuario;
     private String contracenia;

@@ -1,5 +1,3 @@
-
-
 package com.mycompany.loginjpa;
 
 import com.mycompany.loginjpa.igu.PLogin;
@@ -10,5 +8,6 @@ public class LoginJPA {
         PLogin login = new PLogin();
         login.setVisible(true);
         login.setLocationRelativeTo(null);
+
     }
 }
