@@ -1,0 +1,11 @@
+com\mycompany\loginjpa\persistencia\UsuarioJpaController.class
+com\mycompany\loginjpa\persistencia\ControladoraPersistencia.class
+com\mycompany\loginjpa\LoginJPA.class
+com\mycompany\loginjpa\logica\Controladora.class
+com\mycompany\loginjpa\logica\Usuario.class
+com\mycompany\loginjpa\igu\PLogin.class
+com\mycompany\loginjpa\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\loginjpa\logica\Usuario_.class
+com\mycompany\loginjpa\igu\PLogin$1.class
+com\mycompany\loginjpa\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\loginjpa\persistencia\exceptions\NonexistentEntityException.class

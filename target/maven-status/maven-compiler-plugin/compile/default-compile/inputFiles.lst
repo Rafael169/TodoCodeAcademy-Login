@@ -1,0 +1,9 @@
+C:\Users\ralej\Documents\NetBeansProjects\LoginJPA\src\main\java\com\mycompany\loginjpa\LoginJPA.java
+C:\Users\ralej\Documents\NetBeansProjects\LoginJPA\src\main\java\com\mycompany\loginjpa\persistencia\ControladoraPersistencia.java
+C:\Users\ralej\Documents\NetBeansProjects\LoginJPA\src\main\java\com\mycompany\loginjpa\persistencia\exceptions\NonexistentEntityException.java
+C:\Users\ralej\Documents\NetBeansProjects\LoginJPA\src\main\java\com\mycompany\loginjpa\logica\Controladora.java
+C:\Users\ralej\Documents\NetBeansProjects\LoginJPA\src\main\java\com\mycompany\loginjpa\persistencia\UsuarioJpaController.java
+C:\Users\ralej\Documents\NetBeansProjects\LoginJPA\src\main\java\com\mycompany\loginjpa\igu\PLogin.java
+C:\Users\ralej\Documents\NetBeansProjects\LoginJPA\src\main\java\com\mycompany\loginjpa\persistencia\exceptions\IllegalOrphanException.java
+C:\Users\ralej\Documents\NetBeansProjects\LoginJPA\src\main\java\com\mycompany\loginjpa\persistencia\exceptions\PreexistingEntityException.java
+C:\Users\ralej\Documents\NetBeansProjects\LoginJPA\src\main\java\com\mycompany\loginjpa\logica\Usuario.java
