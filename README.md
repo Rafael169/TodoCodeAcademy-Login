@@ -34,7 +34,7 @@ Este proyecto es una aplicación de escritorio desarrollada en **Java**, utiliza
 - Java JDK 11 o superior
 - MySQL Server
 - Maven instalado
-- IDE como IntelliJ IDEA o VS Code
+- IDE como IntelliJ IDEA | NetBeans | VS Code
 
 ---
 
